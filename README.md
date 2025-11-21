@@ -14,7 +14,7 @@ matrix inversion algorithm from scratch using Python and NumPy.
 
 \- `numerical-matrix-inverter.ipynb` — Jupyter notebook with the implementation
 
-\- `invert\_matrix.py` — Python script with the matrix inversion function
+\- `invert_matrix.py` — Python script with the matrix inversion function
 
 
 
@@ -22,7 +22,7 @@ Future improvements
 
 -Fix the 0-pivot issue
 
-\-Improve numerical stability
+-Improve numerical stability
 
 
 
